@@ -1,0 +1,20 @@
+$primary: #d90909;
+$secondary: #f7f7f7;
+$success: #28a745;
+$danger: #dc3545;
+$info: #e80000;
+$warning: #ffc107;
+$light: #f8f9fa;
+$dark: #343a40;
+
+$body-bg: $dark;
+$body-color: $light;
+
+.container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5vw;
+}
+
+@import "~bootstrap/scss/bootstrap.scss";
